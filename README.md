@@ -5,7 +5,7 @@ Hi, My name is Zachary Werner, I'm a Supply Chain Major with an IST Minor. I bri
 
 ---
 
-## 🚀 Featured Project: Automated Quality & Logistics Script
+## 🚀 Featured Project:
 
 
 ---
