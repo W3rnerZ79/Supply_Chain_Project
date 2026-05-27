@@ -1,7 +1,8 @@
 # Supply_Chain_Project
 ---
 
-<img width="2423" height="1358" alt="image" src="https://github.com/user-attachments/assets/f69d17a4-8fd5-4146-b2ee-645b57d3a1fb" />
+<img width="2435" height="1368" alt="image" src="https://github.com/user-attachments/assets/085a7c63-ee73-40ae-932c-98dbd675fa5d" />
+
 
 # 📊 Supply Chain & Supplier Quality Dashboard
 
