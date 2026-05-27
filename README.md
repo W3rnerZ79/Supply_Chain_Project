@@ -6,6 +6,8 @@ Hi, My name is Zachary Werner, I'm a Supply Chain Major with an IST Minor. I bri
 ---
 
 ## 🚀 Featured Project:
+<img width="2005" height="1132" alt="image" src="https://github.com/user-attachments/assets/fd355ef6-5d5a-47dd-b97d-3c035188dc48" />
+
 
 
 ---
