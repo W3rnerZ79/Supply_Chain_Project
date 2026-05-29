@@ -1,4 +1,4 @@
-##Stockout & Supplier Quality Project
+###Stockout & Supplier Quality Project
 ---
 
 <img width="2435" height="1368" alt="image" src="https://github.com/user-attachments/assets/085a7c63-ee73-40ae-932c-98dbd675fa5d" />
